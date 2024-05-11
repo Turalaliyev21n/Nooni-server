@@ -10,7 +10,9 @@
       "hot": true,
       "quantity": 36,
       "category": "chiffon",
-      "rating": 4
+      "rating": 4,
+      "size" : ["xl"]
+
     },
     {
       "id": "2",
@@ -21,20 +23,23 @@
       "salePrice": 399,
       "hot": true,
       "quantity": 23,
-      "category": "Women",
-      "rating": 5
+      "category": "Female",
+      "rating": 5,
+      "size" : ["s"]
+
     },
     {
       "id": "3",
       "title": "Crop Top & Jackets Set In White",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/03-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/03_3-450x572.jpg",
-      "regularPrice": 1349,
-      "salePrice": 359,
+      "regularPrice": 799,
+      "salePrice": 559,
       "hot": true,
       "quantity": 36,
-      "category": "Women",
-      "rating": 5
+      "category": "Female",
+      "rating": 5,
+      "size" : ["s","l","m"]
     },
     {
       "id": "4",
@@ -45,20 +50,24 @@
       "salePrice": 399,
       "hot": false,
       "quantity": 0,
-      "category": "Women",
-      "rating": 3
+      "category": "Female",
+      "rating": 3,
+      "size" : ["xs","xl","l"]
+
     },
     {
       "id": "5",
       "title": "Small Logo Puffer Jacket In Blue",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/24-450x572.jpg",
       "backImage": null,
-      "regularPrice": 1200,
+      "regularPrice": 1099,
       "salePrice": 999,
       "hot": true,
       "quantity": 32,
-      "category": "Women",
-      "rating": 4
+      "category": "Female",
+      "rating": 4,
+      "size" : ["s","xl","m"]
+
     },
     {
       "id": "6",
@@ -70,64 +79,74 @@
       "hot": false,
       "quantity": 32,
       "category": "Classic",
-      "rating": 5
+      "rating": 5,
+      "size" : ["s","l","m"]
     },
     {
       "id": "7",
       "title": "Buck Butte Insulated Hooded Jacket",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/27-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/20-450x572.jpg",
-      "salePrice": 3707,
+      "salePrice": 999,
       "hot": false,
       "quantity": 32,
       "category": "Buck",
-      "rating": 5
+      "rating": 5,
+      "size" : ["xs","l"]
+
     },
     {
       "id": "8",
       "title": "Faux Longline Coat in Light Pink",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/31-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/31_2-450x572.jpg",
-      "salePrice": 1009,
+      "salePrice": 549,
       "hot": true,
       "quantity": 32,
-      "category": "Women",
-      "rating": 5
+      "category": "Female",
+      "rating": 5,
+      "size" : ["s","xl","l","m","xxl"]
+
     },
     {
       "id": "9",
       "title": "Jacket With Logo In Brown",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/04-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/04_2-450x572.jpg",
-      "salePrice": 999,
+      "salePrice": 339,
       "hot": false,
       "quantity": 32,
-      "category": "Women",
-      "rating": 4
+      "category": "Female",
+      "rating": 4,
+      "size" : ["s","xl","l","m","xxl"]
     },
     {
       "id": "10",
       "title": "Women's Floral Midi Dress",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/10-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/15-450x572.jpg",
-      "regularPrice": 2099,
-      "salePrice": 1399,
+      "regularPrice": 859,
+      "salePrice": 600,
       "hot": false,
       "quantity": 23,
-      "category": "Women",
-      "rating": 1
+      "category": "Female",
+      "rating": 1,
+      "size" : ["s","xl","l","m","xxl"]
+
     },
     {
       "id": "11",
-      "title": "Boy's Short Sleeve T-Shirt Seasonal",
+      "title": "Male Short Sleeve T-Shirt Seasonal",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/03/44-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/03/45-450x572.jpg",
       "regularPrice": null,
-      "salePrice": 2199,
+      "salePrice": 899,
       "hot": false,
       "quantity": 23,
-      "category": "Boys",
-      "rating": 0
+      "category": "Male",
+      "rating": 0,
+      "size" : ["s","xl","l"]
+
     },
     {
       "id": "12",
@@ -138,19 +157,23 @@
       "salePrice": 299,
       "hot": false,
       "quantity": 23,
-      "category": "Women",
-      "rating": 3
+      "category": "Female",
+      "rating": 3,
+      "size" : ["s","xl","l"]
+
     },
     {
       "id": "13",
       "title": "Hood Jacket in White",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/03-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/03_3-450x572.jpg",
-      "salePrice": 1349,
+      "salePrice": 599,
       "hot": true,
       "quantity": 23,
-      "category": "Women",
-      "rating": 3
+      "category": "Female",
+      "rating": 3,
+      "size" : ["s","xs","l","m","xxl"]
+
     },
     {
       "id": "14",
@@ -160,8 +183,10 @@
       "salePrice": 224,
       "hot": true,
       "quantity": 0,
-      "category": "Women",
-      "rating": 2
+      "category": "Female",
+      "rating": 2,
+      "size" : ["s","xs","m"]
+
     },
     {
       "id": "15",
@@ -171,19 +196,23 @@
       "salePrice": 299,
       "hot": true,
       "quantity": 23,
-      "category": "Women",
-      "rating": 3
+      "category": "Female",
+      "rating": 3,
+      "size" : ["s","xs"]
+
     },
     {
       "id": "16",
       "title": "Male Smiley T-shirt In Light Blue",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/05-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/05_2-450x572.jpg",
-      "salePrice": 1009,
+      "salePrice": 459,
       "hot": false,
       "quantity": 23,
       "category": "Male",
-      "rating": 3
+      "rating": 3,
+      "size" : ["s","xl","l"]
+
     },
     {
       "id": "17",
@@ -194,8 +223,10 @@
       "salePrice": 329,
       "hot": false,
       "quantity": 23,
-      "category": "Women",
-      "rating": 5
+      "category": "Female",
+      "rating": 5,
+      "size" : ["s","xl","l"]
+
     },
     {
       "id": "18",
@@ -205,79 +236,93 @@
       "salePrice": 259,
       "hot": false,
       "quantity": 23,
-      "category": "Women",
-      "rating": 5
+      "category": "Female",
+      "rating": 5,
+      "size" : ["xl","m"]
+
     },
     {
       "id": "19",
       "title": "Male Regular Long-Sleeve T-Shirt",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/20-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/08-450x572.jpg",
-      "regularPrice": 1899,
-      "salePrice": 900,
+      "regularPrice": 899,
+      "salePrice": 699,
       "hot": true,
       "quantity": 23,
       "category": "Male",
-      "rating": 5
+      "rating": 5,
+      "size" : ["s","xxl"]
+
     },
     {
       "id": "20",
       "title": "Women's Fit 5 Pocket Jean",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/22-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/26-450x572.jpg",
-      "salePrice": 700,
+      "salePrice": 899,
       "hot": false,
       "quantity": 23,
-      "category": "Women",
-      "rating": 1
+      "category": "Female",
+      "rating": 1,
+      "size" : ["s","xl","l","m","xxl"]
+
     },
     {
       "id": "21",
       "title": "Women's Long Sleeve Dress in Red",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/23-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/15-450x572.jpg",
-      "regularPrice": 2199,
-      "salePrice": 980,
+      "regularPrice": 1000,
+      "salePrice": 499,
       "hot": true,
       "quantity": 23,
-      "category": "Women",
-      "rating": 0
+      "category": "Female",
+      "rating": 0,
+      "size" : ["s","xl","l"]
+
     },
     {
       "id": "22",
       "title": "Male Sportstyle Long-sleeve T-shirt",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/08-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/12-450x572.jpg",
-      "regularPrice": 805,
-      "salePrice": 519,
+      "regularPrice": 800,
+      "salePrice": 559,
       "hot": false,
       "quantity": 23,
       "category": "Male",
-      "rating": 3
+      "rating": 3,
+      "size" : ["s","xl","l","m","xxl"]
+
     },
     {
       "id": "23",
       "title": "Blazer, Shorts, Pants Set In Whitet",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/03/39-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/03/39_3-450x572.jpg",
-      "regularPrice": 252,
+      "regularPrice": 300,
       "salePrice": 199,
       "hot": false,
       "quantity": 23,
-      "category": "Women",
-      "rating": 1
+      "category": "Female",
+      "rating": 1,
+      "size" : ["m"]
+
     },
     {
       "id": "24",
       "title": "Toddlers and Baby Girls Dress",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/03/41-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/03/42-450x572.jpg",
-      "regularPrice": 1299,
-      "salePrice": 210,
+      "regularPrice": 800,
+      "salePrice": 699,
       "hot": false,
       "quantity": 23,
-      "category": "Girls",
-      "rating": 4
+      "category": "Kids",
+      "rating": 4,
+      "size" : ["l","m"]
+
     },
     {
       "id": "25",
@@ -287,8 +332,10 @@
       "salePrice": 499,
       "hot": true,
       "quantity": 5,
-      "category": "Women",
-      "rating": 5
+      "category": "Female",
+      "rating": 5,
+      "size" : ["xl","l"]
+
     },
     {
       "id": "26",
@@ -299,8 +346,10 @@
       "salePrice": 299,
       "hot": false,
       "quantity": 10,
-      "category": "Girls",
-      "rating": 5
+      "category": "Kids",
+      "rating": 5,
+      "size" : ["s","xl","l","m","xxl"]
+
     },
     {
       "id": "27",
@@ -311,8 +360,10 @@
       "salePrice": 359,
       "hot": false,
       "quantity": 10,
-      "category": "Women",
-      "rating": 4
+      "category": "Female",
+      "rating": 4,
+      "size" : ["s","xl","l","m","xxl"]
+
     },
     {
       "id": "28",
@@ -323,19 +374,23 @@
       "hot": false,
       "quantity": 32,
       "category": "Oversized",
-      "rating": 3
+      "rating": 3,
+      "size" : ["s","xl","m","xxl"]
+
     },
     {
       "id": "29",
       "title": "Kid's Cotton T-Shirt in Green",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/03/45-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/03/44-450x572.jpg",
-      "regularPrice": 1099,
+      "regularPrice": 800,
       "salePrice": 699,
       "hot": false,
       "quantity": 32,
       "category": "Kids",
-      "rating": 1
+      "rating": 1,
+      "size" : ["s","xl","m","xxl"]
+
     },
     {
       "id": "30",
@@ -343,23 +398,27 @@
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/03/43-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/03/47-450x572.jpg",
       "regularPrice": false,
-      "salePrice": 1000,
+      "salePrice": 339,
       "hot": true,
       "quantity": 23,
-      "category": "Girls",
-      "rating": 0
+      "category": "Kids",
+      "rating": 0,
+      "size" : ["s","xl","l","m"]
+
     },
     {
       "id": "31",
-      "title": "Boys Orange Cotton T-Shirt",
+      "title": "Male Orange Cotton T-Shirt",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/03/46-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/03/45-450x572.jpg",
       "regularPrice": false,
       "salePrice": 450,
       "hot": false,
       "quantity": 23,
-      "category": "Boys",
-      "rating": 3
+      "category": "Male",
+      "rating": 3,
+      "size" : ["xl","l","m","xxl"]
+
     },
     {
       "id": "32",
@@ -371,18 +430,22 @@
       "hot": false,
       "quantity": 23,
       "category": "Male",
-      "rating": 4
+      "rating": 4,
+      "size" : ["s","xl","m","xxl"]
+
     },
     {
       "id": "33",
       "title": "Classic Flat-Front Chino Pant",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/33-450x572.jpg",
       "regularPrice": false,
-      "salePrice": 1000,
+      "salePrice": 459,
       "hot": false,
       "quantity": 23,
       "category": "Classic",
-      "rating": 3
+      "rating": 3,
+      "size" : ["l"]
+
     },
     {
       "id": "34",
@@ -394,19 +457,23 @@
       "hot": false,
       "quantity": 23,
       "category": "Male",
-      "rating": 1
+      "rating": 1,
+      "size" : ["s"]
+
     },
     {
       "id": "35",
       "title": "Girls Bar-bie Dress in Black",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/03/40-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/03/41-450x572.jpg",
-      "regularPrice": 200,
-      "salePrice": 450,
+      "regularPrice": 600,
+      "salePrice": 449,
       "hot": false,
       "quantity": 23,
-      "category": "Girls",
-      "rating": 2
+      "category": "Kids",
+      "rating": 2,
+      "size" : ["s","xl","l","m","xxl"]
+
     },
     {
       "id": "36",
@@ -418,19 +485,23 @@
       "hot": false,
       "quantity": 23,
       "category": "Maple",
-      "rating": 4
+      "rating": 4,
+      "size" : ["s","xl","l"]
+
     },
     {
       "id": "37",
-      "title": "Boys Grey Knitted Shorts Set",
+      "title": "Male Grey Knitted Shorts Set",
       "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/03/50-450x572.jpg",
       "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/03/49-450x572.jpg",
-      "regularPrice": 300,
-      "salePrice": 500,
+      "regularPrice": 400,
+      "salePrice": 299,
       "hot": true,
       "quantity": 0,
-      "category": "Boys",
-      "rating": 5
+      "category": "Male",
+      "rating": 5,
+      "size" : ["s","xl","l","m","xxl"]
+
     },
     {
       "id": "38",
@@ -441,8 +512,10 @@
       "salePrice": 985,
       "hot": false,
       "quantity": 19,
-      "category": "Baby",
-      "rating": 5
+      "category": "Kids",
+      "rating": 5,
+      "size" : ["s","xl","l","m","xxl"]
+
     },
     {
       "id": "39",
@@ -453,9 +526,25 @@
       "salePrice": 700,
       "hot": true,
       "quantity": 19,
-      "category": "Baby",
-      "rating": 5
+      "category": "Kids",
+      "rating": 5,
+      "size" : ["s","xl","l","m","xxl"]
+    },
+    {
+      "id": "40",
+      "title": "Men's Slim-Fit Short-Sleeve Shirt",
+      "frontImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/35-450x572.jpg",
+      "backImage": "https://nooni-be87.kxcdn.com/nooni-fashion/wp-content/uploads/2023/04/34-450x572.jpg",
+      "regularPrice": 539,
+      "salePrice": 249,
+      "hot": true,
+      "quantity": 8,
+      "category": "Male",
+      "rating": 5,
+      "size" : ["s","xl","l","m","xxl"]
+
     }
+
   ],
   "user": [
     {
@@ -511,6 +600,13 @@
       "userName": "Tural",
       "userEmail": "turalaliyev2001@mail.com",
       "userPassword": "tural2001",
+      "userPhone": "0559020169"
+    },
+    {
+      "id": "e1ea",
+      "userName": "Nicat",
+      "userEmail": "Nicat@mail.com",
+      "userPassword": "nicat2001",
       "userPhone": "0559020169"
     }
   ]
