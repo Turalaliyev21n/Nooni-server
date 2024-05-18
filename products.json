@@ -11,8 +11,9 @@
       "quantity": 36,
       "category": "chiffon",
       "rating": 4,
-      "size" : ["xl"]
-
+      "size": [
+        "xl"
+      ]
     },
     {
       "id": "2",
@@ -25,8 +26,9 @@
       "quantity": 23,
       "category": "Female",
       "rating": 5,
-      "size" : ["s"]
-
+      "size": [
+        "s"
+      ]
     },
     {
       "id": "3",
@@ -39,7 +41,11 @@
       "quantity": 36,
       "category": "Female",
       "rating": 5,
-      "size" : ["s","l","m"]
+      "size": [
+        "s",
+        "l",
+        "m"
+      ]
     },
     {
       "id": "4",
@@ -52,8 +58,11 @@
       "quantity": 0,
       "category": "Female",
       "rating": 3,
-      "size" : ["xs","xl","l"]
-
+      "size": [
+        "xs",
+        "xl",
+        "l"
+      ]
     },
     {
       "id": "5",
@@ -66,8 +75,11 @@
       "quantity": 32,
       "category": "Female",
       "rating": 4,
-      "size" : ["s","xl","m"]
-
+      "size": [
+        "s",
+        "xl",
+        "m"
+      ]
     },
     {
       "id": "6",
@@ -80,7 +92,11 @@
       "quantity": 32,
       "category": "Classic",
       "rating": 5,
-      "size" : ["s","l","m"]
+      "size": [
+        "s",
+        "l",
+        "m"
+      ]
     },
     {
       "id": "7",
@@ -92,8 +108,10 @@
       "quantity": 32,
       "category": "Buck",
       "rating": 5,
-      "size" : ["xs","l"]
-
+      "size": [
+        "xs",
+        "l"
+      ]
     },
     {
       "id": "8",
@@ -105,8 +123,13 @@
       "quantity": 32,
       "category": "Female",
       "rating": 5,
-      "size" : ["s","xl","l","m","xxl"]
-
+      "size": [
+        "s",
+        "xl",
+        "l",
+        "m",
+        "xxl"
+      ]
     },
     {
       "id": "9",
@@ -118,7 +141,13 @@
       "quantity": 32,
       "category": "Female",
       "rating": 4,
-      "size" : ["s","xl","l","m","xxl"]
+      "size": [
+        "s",
+        "xl",
+        "l",
+        "m",
+        "xxl"
+      ]
     },
     {
       "id": "10",
@@ -131,8 +160,13 @@
       "quantity": 23,
       "category": "Female",
       "rating": 1,
-      "size" : ["s","xl","l","m","xxl"]
-
+      "size": [
+        "s",
+        "xl",
+        "l",
+        "m",
+        "xxl"
+      ]
     },
     {
       "id": "11",
@@ -145,8 +179,11 @@
       "quantity": 23,
       "category": "Male",
       "rating": 0,
-      "size" : ["s","xl","l"]
-
+      "size": [
+        "s",
+        "xl",
+        "l"
+      ]
     },
     {
       "id": "12",
@@ -159,8 +196,11 @@
       "quantity": 23,
       "category": "Female",
       "rating": 3,
-      "size" : ["s","xl","l"]
-
+      "size": [
+        "s",
+        "xl",
+        "l"
+      ]
     },
     {
       "id": "13",
@@ -172,8 +212,13 @@
       "quantity": 23,
       "category": "Female",
       "rating": 3,
-      "size" : ["s","xs","l","m","xxl"]
-
+      "size": [
+        "s",
+        "xs",
+        "l",
+        "m",
+        "xxl"
+      ]
     },
     {
       "id": "14",
@@ -185,8 +230,11 @@
       "quantity": 0,
       "category": "Female",
       "rating": 2,
-      "size" : ["s","xs","m"]
-
+      "size": [
+        "s",
+        "xs",
+        "m"
+      ]
     },
     {
       "id": "15",
@@ -198,8 +246,10 @@
       "quantity": 23,
       "category": "Female",
       "rating": 3,
-      "size" : ["s","xs"]
-
+      "size": [
+        "s",
+        "xs"
+      ]
     },
     {
       "id": "16",
@@ -211,8 +261,11 @@
       "quantity": 23,
       "category": "Male",
       "rating": 3,
-      "size" : ["s","xl","l"]
-
+      "size": [
+        "s",
+        "xl",
+        "l"
+      ]
     },
     {
       "id": "17",
@@ -225,8 +278,11 @@
       "quantity": 23,
       "category": "Female",
       "rating": 5,
-      "size" : ["s","xl","l"]
-
+      "size": [
+        "s",
+        "xl",
+        "l"
+      ]
     },
     {
       "id": "18",
@@ -238,8 +294,10 @@
       "quantity": 23,
       "category": "Female",
       "rating": 5,
-      "size" : ["xl","m"]
-
+      "size": [
+        "xl",
+        "m"
+      ]
     },
     {
       "id": "19",
@@ -252,8 +310,10 @@
       "quantity": 23,
       "category": "Male",
       "rating": 5,
-      "size" : ["s","xxl"]
-
+      "size": [
+        "s",
+        "xxl"
+      ]
     },
     {
       "id": "20",
@@ -265,8 +325,13 @@
       "quantity": 23,
       "category": "Female",
       "rating": 1,
-      "size" : ["s","xl","l","m","xxl"]
-
+      "size": [
+        "s",
+        "xl",
+        "l",
+        "m",
+        "xxl"
+      ]
     },
     {
       "id": "21",
@@ -279,8 +344,11 @@
       "quantity": 23,
       "category": "Female",
       "rating": 0,
-      "size" : ["s","xl","l"]
-
+      "size": [
+        "s",
+        "xl",
+        "l"
+      ]
     },
     {
       "id": "22",
@@ -293,8 +361,13 @@
       "quantity": 23,
       "category": "Male",
       "rating": 3,
-      "size" : ["s","xl","l","m","xxl"]
-
+      "size": [
+        "s",
+        "xl",
+        "l",
+        "m",
+        "xxl"
+      ]
     },
     {
       "id": "23",
@@ -307,8 +380,9 @@
       "quantity": 23,
       "category": "Female",
       "rating": 1,
-      "size" : ["m"]
-
+      "size": [
+        "m"
+      ]
     },
     {
       "id": "24",
@@ -321,8 +395,10 @@
       "quantity": 23,
       "category": "Kids",
       "rating": 4,
-      "size" : ["l","m"]
-
+      "size": [
+        "l",
+        "m"
+      ]
     },
     {
       "id": "25",
@@ -334,8 +410,10 @@
       "quantity": 5,
       "category": "Female",
       "rating": 5,
-      "size" : ["xl","l"]
-
+      "size": [
+        "xl",
+        "l"
+      ]
     },
     {
       "id": "26",
@@ -348,8 +426,13 @@
       "quantity": 10,
       "category": "Kids",
       "rating": 5,
-      "size" : ["s","xl","l","m","xxl"]
-
+      "size": [
+        "s",
+        "xl",
+        "l",
+        "m",
+        "xxl"
+      ]
     },
     {
       "id": "27",
@@ -362,8 +445,13 @@
       "quantity": 10,
       "category": "Female",
       "rating": 4,
-      "size" : ["s","xl","l","m","xxl"]
-
+      "size": [
+        "s",
+        "xl",
+        "l",
+        "m",
+        "xxl"
+      ]
     },
     {
       "id": "28",
@@ -375,8 +463,12 @@
       "quantity": 32,
       "category": "Oversized",
       "rating": 3,
-      "size" : ["s","xl","m","xxl"]
-
+      "size": [
+        "s",
+        "xl",
+        "m",
+        "xxl"
+      ]
     },
     {
       "id": "29",
@@ -389,8 +481,12 @@
       "quantity": 32,
       "category": "Kids",
       "rating": 1,
-      "size" : ["s","xl","m","xxl"]
-
+      "size": [
+        "s",
+        "xl",
+        "m",
+        "xxl"
+      ]
     },
     {
       "id": "30",
@@ -403,8 +499,12 @@
       "quantity": 23,
       "category": "Kids",
       "rating": 0,
-      "size" : ["s","xl","l","m"]
-
+      "size": [
+        "s",
+        "xl",
+        "l",
+        "m"
+      ]
     },
     {
       "id": "31",
@@ -417,8 +517,12 @@
       "quantity": 23,
       "category": "Male",
       "rating": 3,
-      "size" : ["xl","l","m","xxl"]
-
+      "size": [
+        "xl",
+        "l",
+        "m",
+        "xxl"
+      ]
     },
     {
       "id": "32",
@@ -431,8 +535,12 @@
       "quantity": 23,
       "category": "Male",
       "rating": 4,
-      "size" : ["s","xl","m","xxl"]
-
+      "size": [
+        "s",
+        "xl",
+        "m",
+        "xxl"
+      ]
     },
     {
       "id": "33",
@@ -444,8 +552,9 @@
       "quantity": 23,
       "category": "Classic",
       "rating": 3,
-      "size" : ["l"]
-
+      "size": [
+        "l"
+      ]
     },
     {
       "id": "34",
@@ -458,8 +567,9 @@
       "quantity": 23,
       "category": "Male",
       "rating": 1,
-      "size" : ["s"]
-
+      "size": [
+        "s"
+      ]
     },
     {
       "id": "35",
@@ -472,8 +582,13 @@
       "quantity": 23,
       "category": "Kids",
       "rating": 2,
-      "size" : ["s","xl","l","m","xxl"]
-
+      "size": [
+        "s",
+        "xl",
+        "l",
+        "m",
+        "xxl"
+      ]
     },
     {
       "id": "36",
@@ -486,8 +601,11 @@
       "quantity": 23,
       "category": "Maple",
       "rating": 4,
-      "size" : ["s","xl","l"]
-
+      "size": [
+        "s",
+        "xl",
+        "l"
+      ]
     },
     {
       "id": "37",
@@ -500,8 +618,13 @@
       "quantity": 0,
       "category": "Male",
       "rating": 5,
-      "size" : ["s","xl","l","m","xxl"]
-
+      "size": [
+        "s",
+        "xl",
+        "l",
+        "m",
+        "xxl"
+      ]
     },
     {
       "id": "38",
@@ -514,8 +637,13 @@
       "quantity": 19,
       "category": "Kids",
       "rating": 5,
-      "size" : ["s","xl","l","m","xxl"]
-
+      "size": [
+        "s",
+        "xl",
+        "l",
+        "m",
+        "xxl"
+      ]
     },
     {
       "id": "39",
@@ -528,7 +656,13 @@
       "quantity": 19,
       "category": "Kids",
       "rating": 5,
-      "size" : ["s","xl","l","m","xxl"]
+      "size": [
+        "s",
+        "xl",
+        "l",
+        "m",
+        "xxl"
+      ]
     },
     {
       "id": "40",
@@ -541,10 +675,14 @@
       "quantity": 8,
       "category": "Male",
       "rating": 5,
-      "size" : ["s","xl","l","m","xxl"]
-
+      "size": [
+        "s",
+        "xl",
+        "l",
+        "m",
+        "xxl"
+      ]
     }
-
   ],
   "user": [
     {
@@ -608,6 +746,27 @@
       "userEmail": "Nicat@mail.com",
       "userPassword": "nicat2001",
       "userPhone": "0559020169"
+    },
+    {
+      "id": "9618",
+      "userName": "Emil",
+      "userEmail": "Emin@mail.com",
+      "userPassword": "emil2001",
+      "userPhone": "0559020169"
+    },
+    {
+      "id": "b307",
+      "userName": "Alisa",
+      "userEmail": "Alisa@mail.com",
+      "userPassword": "alisa2001",
+      "userPhone": "dvskjvkds;"
+    }
+  ],
+  "admins": [
+    {
+      "id": "cf16",
+      "adminEmail": "tural@admin.com",
+      "adminPassword": "123456789"
     }
   ]
 }
